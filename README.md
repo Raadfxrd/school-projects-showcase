@@ -6,7 +6,7 @@ All of these projects were built from scratch, without templates or generators �
 
 ## 📦 Featured Projects
 
-### [📱 Dokkie School](./dokkie-school)
+### 📱 Dokkie School
 A group payment app inspired by Tikkie, made for student teams who need to split costs and track who paid what.
 
 - **Tech:** HTML, CSS
@@ -14,7 +14,7 @@ A group payment app inspired by Tikkie, made for student teams who need to split
 
 ---
 
-### [💬 Stack-Exchange School](./stack-exchange-school)
+### [💬 Stack-Exchange School](./Stack-Exchange-school)
 A Q&A platform made for schools — modeled after Stack Overflow but simplified and adapted for educational use. Includes question posting, answering, filtering, and basic moderation.
 
 - **Tech:** Typescript, HTML, CSS
@@ -22,7 +22,7 @@ A Q&A platform made for schools — modeled after Stack Overflow but simplified 
 
 ---
 
-### [🎮 ROTK School](./rotk-school)
+### [🎮 ROTK School](./ROTK-school)
 An interactive story-based game where player choices affect the outcome. Built as a browser game with a branching narrative engine based on JSON and local state.
 
 - **Tech:** Lit, Typescript
@@ -30,7 +30,7 @@ An interactive story-based game where player choices affect the outcome. Built a
 
 ---
 
-### [🛍️ Don't Play!](./dont-play)
+### [🛍️ Don't Play!](./DP-school)
 A vibrant and modern webshop designed to captivate users with a sleek, playful layout. Built using Web Components and a custom backend, it features a bold pink-and-white aesthetic and a fully interactive shopping flow.
 
 - **Tech:** Lit, Express, Node.js, TypeScript, HTML/CSS, MySQL
@@ -39,7 +39,7 @@ A vibrant and modern webshop designed to captivate users with a sleek, playful l
 
 ---
 
-### [🏛️ DeKamer](./dekamer)
+### [🏛️ DeKamer](./De-Kamer)
 A full-stack web application built by 4 students for an "EU-funded project" to visualize Dutch election results through rich, interactive infographics and community features. Designed to boost political engagement among young voters.
 
 - **Tech:** Vue.js, CSS, MySQL, Java
@@ -50,7 +50,7 @@ A full-stack web application built by 4 students for an "EU-funded project" to v
 
 ---
 
-### [🪵 NietVoeren (WIP)](./nietvoeren)
+### 🪵 NietVoeren (WIP)
 A webshop made during my internship at IRP/WOSI, real world use for a small scale business.
 
 - **Tech:** Laravel, PHP, Tailwind CSS
