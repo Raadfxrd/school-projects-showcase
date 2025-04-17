@@ -7,7 +7,7 @@ All of these projects were built from scratch, without templates or generators �
 ## 📦 Featured Projects
 
 ### [📱 Dokkie School](./dokkie-school)
-A group payment app inspired by Tikkie, made for student teams who need to split costs and track who paid what. Built with Vue and Firebase.
+A group payment app inspired by Tikkie, made for student teams who need to split costs and track who paid what.
 
 - **Tech:** HTML, CSS
 - **What I learned:** Real-time databases, user authentication, and clean UI flows
